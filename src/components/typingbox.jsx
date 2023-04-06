@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import "../styles/typingBox.css";
+import "../styles/typingbox.css";
 const TypingBox = ({                            }) => {
      
 
