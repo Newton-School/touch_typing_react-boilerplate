@@ -1,0 +1,83 @@
+
+/* .keyboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .key {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    margin: 0 5px;
+  } */
+  
+  /* .typing-box {
+    padding: 10px;
+    font-size: 24px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: color 0.5s ease-in-out;
+    color: #999;
+  } */
+  
+  /* .typing-box.dark {
+    color: #000;
+  }
+   */
+  /* .text {
+    font-size: 24px;
+    margin-bottom: 20px;
+  } */
+  
+  /* .input {
+    font-size: 24px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  } */
+  
+  /* .results {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    margin-top: 20px;
+  } */
+  /* .typing-box {
+    font-size: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f8f8f8;
+    color: #666;
+    transition: background-color 0.2s ease-out;
+    outline: none;
+} */
+/* 
+.typing-box:focus {
+    background-color: #fff;
+}
+
+.typing-box.dark {
+    background-color: #333;
+    color: #fff;
+} */
+
+/* .typing-box.correct {
+    background-color: #a1dca1;
+}
+
+.typing-box.incorrect {
+    background-color: #ff9191;
+} */
+.wrapper{
+  width: 50%;
+}

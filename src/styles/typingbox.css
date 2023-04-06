@@ -1,0 +1,97 @@
+/* .typing-box { */
+  /* display: block; */
+    /* height: 300px;
+    width: auto; */
+    /* align-self: center; */
+    /* border: 1px solid #ccc;
+    font-size: 24px;
+    text-align: center;
+    outline: none;
+    cursor: text;
+  }
+
+  .typing-code{
+    display: block;
+    width:10px;
+  }
+  .typing-input{
+    display: block;
+    width: 100px;
+    /* height: 100px; */
+  /* }
+  .typing-highlights{
+    display: block;
+    width: 10px;
+  } */ 
+  /* .typing-input:focus {
+    border-color: #0066cc;
+    box-shadow: 0 0 5px #0066cc;
+  }
+   */
+
+  /* .typing-box textarea {
+    font-size: 20px;
+    font-family: monospace;
+    height: 100px;
+    width: 100%;
+    resize: none;
+    border: none;
+    outline: none;
+    background-color: #f8f8f8;
+} */
+
+/* .typing-box textarea.correct {
+    color: black;
+}
+
+.typing-box textarea.incorrect {
+    color: red;
+} */
+/* .start-button{ */
+  /* align-self: center; */
+  /* display: inline; */
+  /* background-color:plum;
+  height: 30px;
+  width: 80px;
+} */
+
+.typing-box{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.inside-box{
+  background-color: #C7E9B0;
+  display: flex;
+  border-radius: 5px;
+  justify-content: space-around;
+  padding: 4rem 1rem;
+  align-items: center;
+  flex-direction: row;
+}
+.typing-code{
+min-width: 3rem;
+font-size: 2rem;
+}
+.typing-input{
+  background-color: #A4BC92 ;
+  border-radius: 5px;
+  padding:2rem 1.5rem; 
+  border:none
+}
+.typing-highlights{
+min-width: 3rem;
+font-size: 2rem;
+}
+.start-button{
+  margin-top:30px ;
+  align-self: center;
+  padding: 1.5rem 2rem;
+  border:none;
+  border-radius: 5px;
+  background-color: #A4BC92;
+  /* width: 100px; */
+  /* padding-
+  padding-top: 15px;
+  padding-bottom: 15px; */
+}
